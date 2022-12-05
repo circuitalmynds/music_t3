@@ -1,5 +1,55 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "kOTGCq9QZpY",
+            "name": "Kelly-Marie Murphy (b. 1964)  - Harp Concerto 'And Then At Night I Paint the Stars' (2002) MUST HEAR-kOTGCq9QZpY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/t3/videos/Kelly-Marie Murphy (b. 1964)  - Harp Concerto 'And Then At Night I Paint the Stars' (2002) MUST HEAR-kOTGCq9QZpY.mp4",
+            "size": 19.250064,
+            "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/Kelly-Marie Murphy (b. 1964)  - Harp Concerto 'And Then At Night I Paint the Stars' (2002) MUST HEAR-kOTGCq9QZpY.mp4?raw=true"
+        },
+        {
+            "id": "SCkoH-hPR18",
+            "name": "Reggae Mood-SCkoH-hPR18.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/t3/videos/Reggae Mood-SCkoH-hPR18.mp4",
+            "size": 3.957966,
+            "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/Reggae Mood-SCkoH-hPR18.mp4?raw=true"
+        },
+        {
+            "id": "HWb61zOjjOk",
+            "name": "The Piccolino (From 'Top Hat')-HWb61zOjjOk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/t3/videos/The Piccolino (From 'Top Hat')-HWb61zOjjOk.mp4",
+            "size": 4.786734,
+            "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/The Piccolino (From 'Top Hat')-HWb61zOjjOk.mp4?raw=true"
+        },
+        {
+            "id": "WAEU9q1kLvk",
+            "name": "(\u9ad8\u4e2d\u6b63\u7fa9) Masayoshi Takanaka - Takanaka (1977) [Full Album]-WAEU9q1kLvk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/t3/videos/(\u9ad8\u4e2d\u6b63\u7fa9) Masayoshi Takanaka - Takanaka (1977) [Full Album]-WAEU9q1kLvk.mp4",
+            "size": 55.079038999999995,
+            "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/(\u9ad8\u4e2d\u6b63\u7fa9) Masayoshi Takanaka - Takanaka (1977) [Full Album]-WAEU9q1kLvk.mp4?raw=true"
+        },
+        {
+            "id": "m0pzqp2qfW0",
+            "name": "Love Is the Sweetest Thing-m0pzqp2qfW0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/t3/videos/Love Is the Sweetest Thing-m0pzqp2qfW0.mp4",
+            "size": 4.166223,
+            "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/Love Is the Sweetest Thing-m0pzqp2qfW0.mp4?raw=true"
+        },
+        {
+            "id": "PH2USizSkoI",
+            "name": "I'm Putting All My Eggs in One Basket (From 'Follow the Fleet')-PH2USizSkoI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/t3/videos/I'm Putting All My Eggs in One Basket (From 'Follow the Fleet')-PH2USizSkoI.mp4",
+            "size": 4.102647,
+            "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/I'm Putting All My Eggs in One Basket (From 'Follow the Fleet')-PH2USizSkoI.mp4?raw=true"
+        },
+        {
+            "id": "VY97JWlPDYc",
+            "name": "El Barbero De Sevilla 'Obertura' - Rossini-VY97JWlPDYc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/t3/videos/El Barbero De Sevilla 'Obertura' - Rossini-VY97JWlPDYc.mp4",
+            "size": 9.732904999999999,
+            "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/El Barbero De Sevilla 'Obertura' - Rossini-VY97JWlPDYc.mp4?raw=true"
+        }
+    ],
+    "total_size": 101.07557800000001
 }
