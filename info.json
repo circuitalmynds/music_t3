@@ -156,6 +156,13 @@
             "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/El Barbero De Sevilla 'Obertura' - Rossini-VY97JWlPDYc.mp4?raw=true"
         },
         {
+            "id": "lyfK2wOKmw4",
+            "name": "Alfredo Zitarrosa - Adagio en mi país  (1973) [lyfK2wOKmw4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t3/videos/Alfredo Zitarrosa - Adagio en mi país  (1973) [lyfK2wOKmw4].mp4",
+            "size": 42.906186999999996,
+            "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/Alfredo Zitarrosa - Adagio en mi país  (1973) [lyfK2wOKmw4].mp4?raw=true"
+        },
+        {
             "id": "Tdg-DT8rTUQ",
             "name": "Claudio Arrau Beethoven ＂Appassionata＂ (Full) [Tdg-DT8rTUQ].mp4",
             "path": "/home/alanmatzumiya/Videos/container/t3/videos/Claudio Arrau Beethoven ＂Appassionata＂ (Full) [Tdg-DT8rTUQ].mp4",
@@ -168,6 +175,13 @@
             "path": "/home/alanmatzumiya/Videos/container/t3/videos/Dvořák - My Home, Op. 62, B.125a [E05J6zTTOgE].mp4",
             "size": 6.581631,
             "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/Dvořák - My Home, Op. 62, B.125a [E05J6zTTOgE].mp4?raw=true"
+        },
+        {
+            "id": "jp0UXnQ70gY",
+            "name": "Nina Hagen ＂New York＂ in Spain.-1994 [jp0UXnQ70gY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t3/videos/Nina Hagen ＂New York＂ in Spain.-1994 [jp0UXnQ70gY].mp4",
+            "size": 24.378073,
+            "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/Nina Hagen ＂New York＂ in Spain.-1994 [jp0UXnQ70gY].mp4?raw=true"
         },
         {
             "id": "kOTGCq9QZpY",
@@ -233,6 +247,20 @@
             "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/Diana and Acteon pas de deux from Esmeralda ⧸ Па де диан из балета «Эсмеральда» [5NVv8wg41-U].mp4?raw=true"
         },
         {
+            "id": "SX7BYyV3lSc",
+            "name": "Barrington Levy - Love Your Brother Man - The Early Years (Full Album) [SX7BYyV3lSc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t3/videos/Barrington Levy - Love Your Brother Man - The Early Years (Full Album) [SX7BYyV3lSc].mp4",
+            "size": 90.952855,
+            "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/Barrington Levy - Love Your Brother Man - The Early Years (Full Album) [SX7BYyV3lSc].mp4?raw=true"
+        },
+        {
+            "id": "ugdDaB_dBYI",
+            "name": "Paganini： Violin Concerto No. 6 in E Minor, MS. 75 - II. Adagio (Cadenza by Accardo) [ugdDaB_dBYI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t3/videos/Paganini： Violin Concerto No. 6 in E Minor, MS. 75 - II. Adagio (Cadenza by Accardo) [ugdDaB_dBYI].mp4",
+            "size": 10.530865,
+            "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/Paganini： Violin Concerto No. 6 in E Minor, MS. 75 - II. Adagio (Cadenza by Accardo) [ugdDaB_dBYI].mp4?raw=true"
+        },
+        {
             "id": "kDLZLuOl0W8",
             "name": "Serie Cuba Libre： Bola de Nieve le Canta a Todos los Demás, Vol. 3 (Full Album) [kDLZLuOl0W8].mp4",
             "path": "/home/alanmatzumiya/Videos/container/t3/videos/Serie Cuba Libre： Bola de Nieve le Canta a Todos los Demás, Vol. 3 (Full Album) [kDLZLuOl0W8].mp4",
@@ -261,5 +289,5 @@
             "url": "https://github.com/circuitalmynds/music_t3/blob/main/videos/Space - Magic Fly (Original Video) - 1977 [ZavwtJxmqJI].mp4?raw=true"
         }
     ],
-    "total_size": 732.823052
+    "total_size": 901.5910319999999
 }
