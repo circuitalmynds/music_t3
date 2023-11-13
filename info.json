@@ -177,11 +177,25 @@
             "url": "https://github.com/circuitalmynds/music_t3/raw/main/videos/Dvo\u0159\u00e1k - My Home, Op. 62, B.125a [E05J6zTTOgE].mp4"
         },
         {
+            "id": "E05J6zTTOgE",
+            "name": "Dvo\u0159\u00e1k\uff1a My Home, Op. 62, B.125a [E05J6zTTOgE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t3/videos/Dvo\u0159\u00e1k\uff1a My Home, Op. 62, B.125a [E05J6zTTOgE].mp4",
+            "size": 21.127041,
+            "url": "https://github.com/circuitalmynds/music_t3/raw/main/videos/Dvo\u0159\u00e1k\uff1a My Home, Op. 62, B.125a [E05J6zTTOgE].mp4"
+        },
+        {
             "id": "jp0UXnQ70gY",
             "name": "Nina Hagen \uff02New York\uff02 in Spain.-1994 [jp0UXnQ70gY].mp4",
             "path": "/home/alanmatzumiya/Videos/container/t3/videos/Nina Hagen \uff02New York\uff02 in Spain.-1994 [jp0UXnQ70gY].mp4",
             "size": 24.378073,
             "url": "https://github.com/circuitalmynds/music_t3/raw/main/videos/Nina Hagen \uff02New York\uff02 in Spain.-1994 [jp0UXnQ70gY].mp4"
+        },
+        {
+            "id": "S8EykQaZ8CU",
+            "name": "Marianne Faithfull - As Tears Go By (1964) (Stereo \u29f8 Lyrics) [S8EykQaZ8CU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t3/videos/Marianne Faithfull - As Tears Go By (1964) (Stereo \u29f8 Lyrics) [S8EykQaZ8CU].mp4",
+            "size": 13.489625,
+            "url": "https://github.com/circuitalmynds/music_t3/raw/main/videos/Marianne Faithfull - As Tears Go By (1964) (Stereo \u29f8 Lyrics) [S8EykQaZ8CU].mp4"
         },
         {
             "id": "kOTGCq9QZpY",
@@ -289,5 +303,5 @@
             "url": "https://github.com/circuitalmynds/music_t3/raw/main/videos/Space - Magic Fly (Original Video) - 1977 [ZavwtJxmqJI].mp4"
         }
     ],
-    "total_size": 901.5910319999999
+    "total_size": 936.2076979999999
 }
